@@ -7,3 +7,4 @@
 * [Android 自动化打包实践 gradle打包并推送到git远程库](http://www.jianshu.com/p/9eaefefddde8)
 * [Android 代码混淆在AS的实践](http://www.jianshu.com/p/e19cc5194a31)
 * [Android webView加载网页播放优酷视频引发“请允许cookie存储”问题的解决](http://www.jianshu.com/p/00861f1e3248)
+* [Android Git在bash环境和Android studio工具中的使用](https://www.jianshu.com/p/67e59e839e6b)
